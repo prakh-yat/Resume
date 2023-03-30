@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;700&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	box-sizing: border-box;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+body{
+	background: linear-gradient(to right, #fa9393 0%, #91a9f7 100%);
+	/* background: rgb(255, 255, 255); */
+	background-image: url("https://dz2cdn1.dzone.com/storage/temp/12482625-pic-scattered-pages-of-old-book.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.resume{
+	width: 1000px;
+	background: rgb(255, 255, 255);
+	margin: auto;
+	
+  margin-top: 10px;
+  margin-bottom: 100px;
+  border-radius: 5px;
+} 
+
+
+.name{
+	align-items: center;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xxx-large;
+}
+
+.info ul{
+	margin: 0px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.text{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	text-align: justify;
+	
+	
+}
+
+.ltext{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	text-align: justify;
+	width: 546px;
+}
+
+.hr{
+  border-top: 5px solid #000000;
+  margin: auto;
+  width: 950px;
+  border-radius: 2px;
+}
+
+.heading{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-large;
+	margin-left: 28px;
+	margin-right: 28px;
+	
+}
+
+.sheading{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: large;
+	text-transform: uppercase;
+	
+}
+
+.heading ul{
+	display: flex;
+	flex-wrap: wrap; 
+	justify-content: space-between;
+	margin: 0px;
+}
+
+.space{
+	margin: 6px;
+}
+
