@@ -58,10 +58,11 @@ body{
 }
 
 hr{
-  border-top: 5px solid #000000;
   margin: auto;
+  margin-top: 5rem;
   width: 950px;
   border-radius: 2px;
+
 }
  
 .heading{
